@@ -9,7 +9,7 @@ Welcome to my profile! I am a software engineer with experience in **Java, Sprin
 - 🌍 Lived and Studied in Canada for a year, expanding my knowledge in technology and business at **Pacific Link College**
 - 🏆 Passionate about **challenges, continuous learning, and development best practices**
 - 🛠️ Special interest in **software architecture and engineering, AI, cloud computing, and project management**
-- ⚙️ Experience in **Salesforce development and administration, Java, Spring Boot, SQL, AWS**
+- ⚙️ Experience in **Salesforce development and administration, Java, Spring Boot, SQL, AWS, Python, Flask, Machine Learning**
 
 ---
 
