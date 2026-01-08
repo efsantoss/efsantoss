@@ -1,14 +1,15 @@
-# 👋 Hi, I'm Enzo Fischer  
+# 👋 Hi, I'm Enzo Fischer
 
-🚀 Software Engineer specializing in Salesforce Development, Java with Spring Boot and cloud based integrations. I build scalable systems that automate processes, connect data and deliver measurable business results.
+🚀 Software Engineer focused on Full Stack Development, Salesforce Engineering and cloud based solutions. I design and build scalable end to end systems that automate processes, integrate APIs and deliver real business impact using modern software architecture principles.
 
-🎓 Graduated in Bachelor of Information Systems, PUC Campinas  
-🎓 Graduated in Associate Degree in Information and Communication Technology, Pacific Link College, Canada  
+🎓 MBA in Business Technologies, Artificial Intelligence, Data Science and Big Data, PUCRS - in progress
+🎓 Bachelor of Information Systems, PUC Campinas  
+🎓 Associate Degree in Information and Communication Technology, Pacific Link College, Canada  
 💼 Salesforce Developer II at PwC Brazil  
-☁️ Focus on Salesforce, Cloud Architecture, API Integrations and AI driven solutions  
+☁️ Focus on Full Stack Architecture, Salesforce Platform, Cloud Integrations and AI driven solutions  
 🌍 International academic and professional experience in Canada  
 
-## 📊 GitHub Insights  
+## 📊 GitHub Insights
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=efsantoss&style=flat&color=blue"/>
@@ -21,100 +22,107 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=efsantoss&theme=default"/>
 </div>
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-Graduated in Bachelor of Information Systems from PUC Campinas  
-Graduated in Associate Degree in ICT from Pacific Link College in Canada  
-Salesforce Developer II at PwC Brazil working with Sales Cloud, Data Cloud and Marketing Cloud, Apex development and API integrations  
-Passionate about AI, Machine Learning, Cloud Computing and Software Engineering  
-Contact by email, **enzo_fischer10@hotmail.com**  
+I am a Software Engineer with strong experience in Full Stack development and enterprise platforms. My work focuses on designing complete solutions, from system architecture and backend services to frontend interfaces, integrations and cloud deployment.
 
-## 🛠️ Languages, Tools and Frameworks  
+Currently working as a Salesforce Developer II at PwC Brazil, I build and maintain scalable solutions using Apex, Lightning Web Components, OmniStudio and REST APIs, applying MVC architecture, clean code principles and automated testing. Alongside Salesforce, I actively develop backend services with Java and Spring Boot and frontend applications with React and Angular.
 
-### Salesforce Ecosystem  
-<p align="left">
-<img src="https://img.shields.io/badge/Apex-1798c1?style=flat&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visualforce-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/OmniStudio-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/DataRaptors-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOQL-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Marketing Cloud-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
+I also have academic and practical experience in Artificial Intelligence and Machine Learning, using Python and data driven approaches to enhance software solutions. My international academic background in Canada strengthened my technical foundation, communication skills and ability to collaborate in global teams.
+
+📩 Contact me at enzo_fischer10@hotmail.com
+
+## 🛠️ Tech Stack
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 </p>
 
-### Backend  
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST API-4A90E2?style=flat"/>
+---
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
 </p>
 
-### Frontend  
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+---
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
 </p>
 
-### Database  
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data Cloud-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
+---
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </p>
 
-### Tools  
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+---
+
+### Salesforce Platform
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
 </p>
 
-### Frameworks  
-<p align="left">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/OmniStudio-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+**Apex · Lightning Web Components · OmniStudio · SOQL · REST API Integrations · MVC Architecture**
+
+---
+
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
 </p>
 
-## 🚀 Featured Projects  
+Machine Learning · Computer Vision · Data Driven Systems · AWS ML Foundations
 
-### 4 Vidas – Full Stack Capstone Project  
-Java Spring Boot · Angular · MongoDB  
-Full stack platform designed to connect blood donors with collection centers, enabling users to find donation locations, track availability and support health institutions.  
 
-### Salesforce Guided Flow Automation  
-End to end troubleshooting automation using OmniStudio, DataRaptors, Apex controllers and dynamic LWCs  
+## 🚀 Featured Projects
+
+### 4 Vidas, Full Stack Platform  
+Java Spring Boot, Angular, MongoDB  
+End to end platform designed to connect blood donors with collection centers, including user registration, availability tracking and operational management for health institutions.
+
+### Salesforce End to End Automation  
+Enterprise troubleshooting solution built with OmniStudio, DataRaptors, Apex controllers and dynamic Lightning Web Components, fully integrated with external APIs.
 
 ### Cloud Image Processor  
-Flask API in Docker for image upload, Canny edge detection and SQLite persistence, deployed on AWS EC2  
+Python Flask API containerized with Docker for image upload, processing with Canny edge detection and persistence, deployed on AWS.
 
 ### EnergyMatch  
-Java Spring Boot application with MongoDB and GraphQL connecting users with clean energy providers  
+Java Spring Boot application using MongoDB and GraphQL to connect users with clean energy providers through a scalable backend architecture.
 
-### AI Parking Detection  
-Computer vision system using YOLO for real time vehicle detection and classification  
+### AI Parking Detection System  
+Computer vision solution using YOLO and OpenCV for real time vehicle detection and classification.
 
-### Golden Chords – E Commerce and Learning Platform  
-JavaScript · HTML CSS · WordPress
-Web application created as part of the Associate Degree program, combining an online music store with a learning platform for music enthusiasts.  
+### Golden Chords, E Commerce and Learning Platform  
+Web application created during my studies in Canada, combining an online music store and structured learning content using JavaScript, HTML, CSS and WordPress.
 
+## 📞 Contact
 
-## 📞 Contact Me  
-
-LinkedIn, https://www.linkedin.com/in/enzo-fischer-  
+LinkedIn, https://www.linkedin.com/in/enzo-fischer  
 Email, enzo_fischer10@hotmail.com  
+Portfolio, https://portfolio-enzo-fischer.vercel.app/
 
-⭐ If you enjoy my projects, feel free to follow me and star the repositories  
+⭐ If you like my work, feel free to follow me and star the repositories
 
-> I turn ideas into intelligent software using Salesforce, Cloud and Modern Engineering  
+> Turning complex problems into scalable software using Full Stack Engineering, Salesforce and Cloud
