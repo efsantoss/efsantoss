@@ -2,9 +2,9 @@
 
 🚀 Software Engineer focused on Full Stack Development, Salesforce Engineering and cloud based solutions. I design and build scalable end to end systems that automate processes, integrate APIs and deliver real business impact using modern software architecture principles.
 
-🎓 MBA in Business Technologies, Artificial Intelligence, Data Science and Big Data, PUCRS - in progress
-🎓 Bachelor of Information Systems, PUC Campinas  
-🎓 Associate Degree in Information and Communication Technology, Pacific Link College, Canada  
+🎓 **MBA in Business Technologies, Artificial Intelligence, Data Science and Big Data**, PUCRS *(In progress)*  
+🎓 **Bachelor of Information Systems**, PUC Campinas  
+🎓 **Associate Degree in Information and Communication Technology**, Pacific Link College, Canada  
 💼 Salesforce Developer II at PwC Brazil  
 ☁️ Focus on Full Stack Architecture, Salesforce Platform, Cloud Integrations and AI driven solutions  
 🌍 International academic and professional experience in Canada  
