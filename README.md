@@ -1,128 +1,90 @@
-# 👋 Hi, I'm Enzo Fischer
+<h1 align="center">Hi, I'm Enzo Fischer 👋</h1>
 
-🚀 Software Engineer focused on Full Stack Development, Salesforce Engineering and cloud based solutions. I design and build scalable end to end systems that automate processes, integrate APIs and deliver real business impact using modern software architecture principles.
+<h3 align="center">Salesforce Developer · Administrator · Business Analyst</h3>
 
-🎓 **MBA in Business Technologies, Artificial Intelligence, Data Science and Big Data**, PUCRS *(In progress)*  
-🎓 **Bachelor of Information Systems**, PUC Campinas  
-🎓 **Associate Degree in Information and Communication Technology**, Pacific Link College, Canada  
-💼 Salesforce Developer II at PwC Brazil  
-☁️ Focus on Full Stack Architecture, Salesforce Platform, Cloud Integrations and AI driven solutions  
-🌍 International academic and professional experience in Canada  
+<p align="center"><i>Apex · Lightning Web Components · Agentforce · Integrations · Cloud & AI</i></p>
 
-## 📊 GitHub Insights
+<p align="center">
+  <a href="https://portfolio-enzo-fischer.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit_site-6d5dfc?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/enzo-fischer-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge"/></a>
+  <a href="mailto:enzo_fischer10@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-get_in_touch-00b8d4?style=for-the-badge"/></a>
+</p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=efsantoss&style=flat&color=blue"/>
-<img src="https://img.shields.io/github/followers/efsantoss?style=flat&color=blue"/>
-<img src="https://img.shields.io/github/stars/efsantoss?style=flat&color=blue"/>
-</div>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efsantoss&layout=compact&theme=default"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=efsantoss&theme=default"/>
-</div>
-
-## 👨‍💻 About Me
-
-I am a Software Engineer with strong experience in Full Stack development and enterprise platforms. My work focuses on designing complete solutions, from system architecture and backend services to frontend interfaces, integrations and cloud deployment.
-
-Currently working as a Salesforce Developer II at PwC Brazil, I build and maintain scalable solutions using Apex, Lightning Web Components, OmniStudio and REST APIs, applying MVC architecture, clean code principles and automated testing. Alongside Salesforce, I actively develop backend services with Java and Spring Boot and frontend applications with React and Angular.
-
-I also have academic and practical experience in Artificial Intelligence and Machine Learning, using Python and data driven approaches to enhance software solutions. My international academic background in Canada strengthened my technical foundation, communication skills and ability to collaborate in global teams.
-
-📩 Contact me at enzo_fischer10@hotmail.com
-
-## 🛠️ Tech Stack
-
-### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/efsantoss?style=flat&color=6d5dfc"/>
+  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fefsantoss&query=%24.public_repos&label=public%20repos&style=flat&color=6d5dfc"/>
 </p>
 
 ---
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=angular" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-</p>
+## 👨‍💻 About me
 
----
+I'm a Salesforce professional with **3+ years on the platform** and **5+ years in software engineering**. I design, build and administer solutions end to end: custom development with **Apex** and **Lightning Web Components**, integrations across clouds and external systems, **Marketing Cloud** journeys and **Agentforce**.
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-</p>
+Behind the platform there is a full stack foundation: **Java and Spring Boot**, **React and Angular**, **Python** and **AWS**. That is what lets me connect Salesforce to the rest of the stack and keep the solution clean, tested and maintainable.
 
----
+I like turning business requirements into the simplest solution that actually moves the metric.
 
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</p>
+## 🔭 Right now
 
----
+- 💼 Working as a Salesforce Developer, Administrator and Business Analyst, leading sustainment on a **Salesforce Platform → Sales Cloud migration** for a major enterprise client.
+- 🎓 Doing an **MBA in Technology for Business** (AI, Data Science and Big Data) at PUCRS, 2026–2027.
+- 🌱 Exploring **Agentforce** and applied AI / machine learning.
 
-### Salesforce Platform
+## 🏅 Certifications
+
+- Salesforce Certified Administrator
+- Agentforce Specialist (Salesforce)
+- Flosum Certification
+- AWS Machine Learning Foundations
+- Scrum Foundations and one more Scrum certification
+
+## 🎓 Education
+
+- **MBA in Technology for Business** (AI, Data Science, Big Data), PUCRS *(in progress)*
+- **Bachelor in Information Systems**, PUC-Campinas
+- **Associate Degree in Information and Communication Technology**, Pacific Link College, Canada
+
+## 🛠️ Tech stack
+
+### ☁️ Salesforce
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
 </p>
 
-**Apex · Lightning Web Components · OmniStudio · SOQL · REST API Integrations · MVC Architecture**
+**Apex · Lightning Web Components · Flow · Sales Cloud · Service Cloud · Marketing Cloud · AMPscript · Agentforce · OmniStudio · SOQL · REST integrations · Flosum**
 
----
+### 💻 Engineering
 
-### AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,postman,react,ts,js,angular,html,css&perline=11" alt="Backend and frontend"/>
 </p>
 
-Machine Learning · Computer Vision · Data Driven Systems · AWS ML Foundations
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,mongodb,sqlite,tensorflow,opencv&perline=9" alt="Cloud, data and AI"/>
+</p>
 
+## 🚀 Featured projects
 
-## 🚀 Featured Projects
+| Project | What it is | Stack |
+| ------- | ---------- | ----- |
+| [**Upcoming Renewals**](https://github.com/efsantoss/Service-Agreement-Renewals) | Finds Service Agreements nearing expiration, creates a Renewal Task through a bulk-safe Apex trigger and gives the team an LWC to start renewal work. 45 Apex tests, 95% coverage. | Apex, LWC, Custom Metadata, Jest |
+| **Salesforce End to End Automation** | Enterprise troubleshooting flow with dynamic Lightning Web Components, Apex controllers and external API integrations. | OmniStudio, DataRaptors, Apex, LWC |
+| [**4 Vidas**](https://github.com/efsantoss/Capstone-Project-II) | Full stack platform connecting blood donors with collection centers, with availability tracking and operations for health institutions. | Java, Spring Boot, Angular, MongoDB |
+| [**Cloud Image Processor**](https://github.com/efsantoss/AWS-Cloud) | Containerized Flask API for image upload, Canny edge detection and persistence, deployed on AWS. | Python, Flask, Docker, AWS |
+| [**AI Parking Detection**](https://github.com/efsantoss/ProjetoIntegradorV) | Computer vision system for real-time vehicle detection and classification. | Python, YOLO, OpenCV |
+| **EnergyMatch** | Backend that connects users with clean energy providers. | Java, Spring Boot, MongoDB, GraphQL |
 
-### 4 Vidas, Full Stack Platform  
-Java Spring Boot, Angular, MongoDB  
-End to end platform designed to connect blood donors with collection centers, including user registration, availability tracking and operational management for health institutions.
+More on my [portfolio](https://portfolio-enzo-fischer.vercel.app/).
 
-### Salesforce End to End Automation  
-Enterprise troubleshooting solution built with OmniStudio, DataRaptors, Apex controllers and dynamic Lightning Web Components, fully integrated with external APIs.
+## 📬 Let's connect
 
-### Cloud Image Processor  
-Python Flask API containerized with Docker for image upload, processing with Canny edge detection and persistence, deployed on AWS.
+- 🌐 Portfolio: [portfolio-enzo-fischer.vercel.app](https://portfolio-enzo-fischer.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/enzo-fischer-](https://www.linkedin.com/in/enzo-fischer-/)
+- 📧 Email: enzo_fischer10@hotmail.com
 
-### EnergyMatch  
-Java Spring Boot application using MongoDB and GraphQL to connect users with clean energy providers through a scalable backend architecture.
+⭐ If you like my work, feel free to follow me and star the repositories.
 
-### AI Parking Detection System  
-Computer vision solution using YOLO and OpenCV for real time vehicle detection and classification.
-
-### Golden Chords, E Commerce and Learning Platform  
-Web application created during my studies in Canada, combining an online music store and structured learning content using JavaScript, HTML, CSS and WordPress.
-
-## 📞 Contact
-
-LinkedIn, https://www.linkedin.com/in/enzo-fischer  
-Email, enzo_fischer10@hotmail.com  
-Portfolio, https://portfolio-enzo-fischer.vercel.app/
-
-⭐ If you like my work, feel free to follow me and star the repositories
-
-> Turning complex problems into scalable software using Full Stack Engineering, Salesforce and Cloud
+> Turning complex problems into scalable software with Salesforce, full stack engineering and cloud.
