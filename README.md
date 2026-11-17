@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://portfolio-enzo-fischer.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit_site-6d5dfc?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/enzo-fischer-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge"/></a>
-  <a href="mailto:enzo_fischer10@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-get_in_touch-00b8d4?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/enzo-fischer-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:enzo_fischer10@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-get_in_touch-00b8d4?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -27,44 +27,87 @@ I like turning business requirements into the simplest solution that actually mo
 
 ## 🔭 Right now
 
-- 💼 Working as a Salesforce Developer, Administrator and Business Analyst, leading sustainment on a **Salesforce Platform → Sales Cloud migration** for a major enterprise client.
+- 🤖 Building an **Agentforce SDR agent** as a Salesforce Developer, Administrator and Business Analyst.
+- ✅ Recently delivered a **Salesforce Platform → Sales Cloud migration** for an enterprise client.
 - 🎓 Doing an **MBA in Technology for Business** (AI, Data Science and Big Data) at PUCRS, 2026–2027.
-- 🌱 Exploring **Agentforce** and applied AI / machine learning.
+- 🌱 Exploring applied AI and machine learning on top of the Salesforce platform.
 
-## 🏅 Certifications
-
-- Salesforce Certified Administrator
-- Agentforce Specialist (Salesforce)
-- Flosum Certification
-- AWS Machine Learning Foundations
-- Scrum Foundations and one more Scrum certification
-
-## 🎓 Education
-
-- **MBA in Technology for Business** (AI, Data Science, Big Data), PUCRS *(in progress)*
-- **Bachelor in Information Systems**, PUC-Campinas
-- **Associate Degree in Information and Communication Technology**, Pacific Link College, Canada
+---
 
 ## 🛠️ Tech stack
 
 ### ☁️ Salesforce
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="Salesforce"/>
 </p>
 
-**Apex · Lightning Web Components · Flow · Sales Cloud · Service Cloud · Marketing Cloud · AMPscript · Agentforce · OmniStudio · SOQL · REST integrations · Flosum**
+| Area | Tools |
+| ---- | ----- |
+| **Development** | Apex · Lightning Web Components · SOQL / SOSL · Apex Triggers · Jest |
+| **Clouds** | Sales Cloud · Service Cloud · Marketing Cloud (Journeys, AMPscript, landing pages) |
+| **Automation & AI** | Flow · OmniStudio (DataRaptors, Integration Procedures) · Agentforce |
+| **Integrations** | REST APIs · cross-cloud and external system integrations |
+| **DevOps** | Flosum · Salesforce CLI |
 
-### 💻 Engineering
+### 🎨 Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,postman,react,ts,js,angular,html,css&perline=11" alt="Backend and frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css&perline=6" alt="React, Angular, TypeScript, JavaScript, HTML, CSS"/>
 </p>
 
+### ⚙️ Back-end
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,mongodb,sqlite,tensorflow,opencv&perline=9" alt="Cloud, data and AI"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,graphql,postman&perline=6" alt="Java, Spring Boot, Python, Flask, GraphQL, Postman"/>
 </p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=3" alt="MySQL, MongoDB, SQLite"/>
+</p>
+
+### 🚀 Cloud & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel&perline=6" alt="AWS, Docker, Git, GitHub, GitHub Actions, Vercel"/>
+</p>
+
+### 🧠 Data & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=3" alt="Python, TensorFlow, OpenCV"/>
+</p>
+
+**YOLO · Computer Vision · Agentforce · AWS Machine Learning**
+
+### 📋 Agile & Project Management
+
+<p>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-certified-6d5dfc?style=for-the-badge"/>
+  <img alt="Kanban" src="https://img.shields.io/badge/Kanban-00b8d4?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-language.svg" alt="Languages across my repositories" height="180"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Languages I commit the most" height="180"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution history" width="100%"/>
+</p>
+
+<p align="center"><sub>Generated from my public repositories and refreshed daily by GitHub Actions.</sub></p>
+
+---
 
 ## 🚀 Featured projects
 
@@ -78,6 +121,26 @@ I like turning business requirements into the simplest solution that actually mo
 | **EnergyMatch** | Backend that connects users with clean energy providers. | Java, Spring Boot, MongoDB, GraphQL |
 
 More on my [portfolio](https://portfolio-enzo-fischer.vercel.app/).
+
+---
+
+## 🏅 Certifications
+
+| | Certification |
+| - | ------------- |
+| ☁️ | Salesforce Certified Administrator |
+| 🤖 | Salesforce Certified Agentforce Specialist |
+| 🔁 | Flosum Certification |
+| 🧠 | AWS Machine Learning Foundations |
+| 📋 | Scrum Foundations + one more Scrum certification |
+
+## 🎓 Education
+
+- **MBA in Technology for Business** (AI, Data Science, Big Data), PUCRS *(in progress, 2026–2027)*
+- **Bachelor in Information Systems**, PUC-Campinas
+- **Associate Degree in Information and Communication Technology**, Pacific Link College, Canada
+
+---
 
 ## 📬 Let's connect
 
